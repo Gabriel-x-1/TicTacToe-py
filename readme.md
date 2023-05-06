@@ -36,4 +36,4 @@ Requirements
 
 # Credits
 
-This game was created by Bilciurescu gabriel Cosmin. Feel free to modify and distribute it as you like.
+This game was created by Bilciurescu Gabriel Cosmin. Feel free to modify and distribute it as you like.
